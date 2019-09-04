@@ -7,6 +7,9 @@
     - [ ] 极客时间-覃超  03 | 如何计算算法的复杂度
           <details>
            <summary>主定理</summary>
+            <p>二分查找 O(logn)</p>
+            <p>二叉树遍历 O(n)</p>
+            <p>归并排序 O(nlogn)</p>
           </details>
           <details>
            <summary>切题四件套</summary>
